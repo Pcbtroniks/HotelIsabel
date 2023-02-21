@@ -8,8 +8,8 @@
         </div>
 
         <div class="text-white text-center flex flex-col justify-center gap-8 h-full z-10 update absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-            <img class="w-64 mx-auto" src="{{ asset('IsabelStar.svg') }}" alt="logo alt">
-            <h2 class="text-4xl font-bold px-12">
+            <img class="w-80 mx-auto" src="{{ asset('assets/logo-alt.png') }}" alt="logo alt">
+            <h2 class="text-4xl font-bold px-12 hidden">
                 Hotel Isabel
             </h2>
             <p class="text-2xl px-10">

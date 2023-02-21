@@ -17,9 +17,9 @@
 
                 <p>
                     Hotel Isabel fue fundado en 1960 por iniciativa de la familia Paillaud Cano, quienes
-mediante su habilidad visionaria lo convirtieron en una empresa familiar
-especializada en el servicio al huésped, donde la calidad en la atención y la
-calidez en el servicio son de vital importancia.
+                    mediante su habilidad visionaria lo convirtieron en una empresa familiar
+                    especializada en el servicio al huésped, donde la calidad en la atención y la
+                    calidez en el servicio son de vital importancia.
                 </p>
 
                 <div class="space-y md:hidden"></div>
