@@ -7,16 +7,13 @@
             <h3 class="font-bold text-3xl my-11">Contamos con</h3>
 
             <ul>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> 77 Habitaciones</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> 54 Habitaciones</li>
                 <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Wi-Fi Gratis</li>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Restaurante</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Restaurante "EL COMEDOR"</li>
                 <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Recepción 24 Hrs.</li>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Seguridad Privada</li>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Periódicos gratuitos en el lobby</li>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Estacionamiento gratis</li>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Traslado al aeropuerto</li>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Personal multilingüe</li>
-                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Artículos de tocador gratuitos</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Orquideario</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Área Fitness</li>
+                <li class="text-xl mb-2"> <span class="font-bold text-3xl text-main">•</span> Alberca</li>
             </ul>
 
             <div class="my-12">
@@ -25,7 +22,7 @@
         </div>
 
         <div>
-            <img class="w-full max-h-[630px] object-cover" src="{{ asset('assets/img/services/Serivce-Image.png') }}" alt="Servicio">
+            <img class="w-full max-h-[630px] object-cover" src="{{ asset('assets/img/hero/Principal-3.jpg') }}" alt="Servicio">
         </div>
 
     </div>
