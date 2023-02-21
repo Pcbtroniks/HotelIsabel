@@ -1,7 +1,6 @@
 
 <section>
 
-    <div class="space-y"></div>
 
     <div class="w-full bg-main-light p-4 sm:px-16 ">
 
@@ -14,7 +13,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
                         <picture>
-                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/sencilla.png') }}" alt="">
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/sencilla.jpg') }}" alt="">
                         </picture>
                     </div>
 
@@ -60,7 +59,7 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
                         <picture>
-                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/doble.png') }}" alt="">
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/doble.jpg') }}" alt="Habitación Doble">
                         </picture>
                     </div>
 
@@ -106,13 +105,148 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
                         <picture>
-                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/suite.png') }}" alt="">
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/suitlf-3.jpg') }}" alt="">
                         </picture>
                     </div>
 
                     <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium">Suite</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium">Suite Luis Fernando</h2>
+
+                        <div>
+
+                            <p class="text-sm">
+                                En esta habitación tendrás el descanso que te mereces, nuestra Suite ofrece lujo, confort y una increíble vista panorámica. Es una habitación de 50m² con una cama King Size y una relajante tina de baño.
+                                Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
+                            </p>
+
+                            <ul class="grid grid-cols-3 py-4 text-xs">
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Internet inalámbrico y WiFi gratuito</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Televisión plasma</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Señal de TV por cable</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Escritorio de trabajo</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Aire acondicionado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Set para planchado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Set para planchado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Secadora de cabello</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Amenidades de baño</li>
+                            </ul>
+
+                        </div>
+
+                        <div class="mt-8 justify-self-end">
+
+                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                {{-- card --}}
+
+                <div class="shadow-card flex flex-col lg:flex-row xl:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
+                        <picture>
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/sisabel.jpg') }}" alt="Suite Isabel">
+                        </picture>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium">Suite Isabel</h2>
+
+                        <div>
+
+                            <p class="text-sm">
+                                En esta habitación tendrás el descanso que te mereces, nuestra Suite ofrece lujo, confort y una increíble vista panorámica. Es una habitación de 50m² con una cama King Size y una relajante tina de baño.
+                                Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
+                            </p>
+
+                            <ul class="grid grid-cols-3 py-4 text-xs">
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Internet inalámbrico y WiFi gratuito</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Televisión plasma</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Señal de TV por cable</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Escritorio de trabajo</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Aire acondicionado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Set para planchado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Set para planchado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Secadora de cabello</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Amenidades de baño</li>
+                            </ul>
+
+                        </div>
+
+                        <div class="mt-8 justify-self-end">
+
+                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                {{-- card --}}
+
+                <div class="shadow-card flex flex-col lg:flex-row xl:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
+                        <picture>
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/spaillaud.jpg') }}" alt="">
+                        </picture>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium">Suite Paillaud</h2>
+
+                        <div>
+
+                            <p class="text-sm">
+                                En esta habitación tendrás el descanso que te mereces, nuestra Suite ofrece lujo, confort y una increíble vista panorámica. Es una habitación de 50m² con una cama King Size y una relajante tina de baño.
+                                Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
+                            </p>
+
+                            <ul class="grid grid-cols-3 py-4 text-xs">
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Internet inalámbrico y WiFi gratuito</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Televisión plasma</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Señal de TV por cable</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Escritorio de trabajo</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Aire acondicionado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Set para planchado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Set para planchado</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Secadora de cabello</li>
+                                <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Amenidades de baño</li>
+                            </ul>
+
+                        </div>
+
+                        <div class="mt-8 justify-self-end">
+
+                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                {{-- card --}}
+
+                <div class="shadow-card flex flex-col lg:flex-row xl:max-h-80 xl:h-80 max-w-[1253px] lg:mx-auto my-8">
+
+                    <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
+                        <picture>
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/master-suite.png') }}" alt="">
+                        </picture>
+                    </div>
+
+                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
+
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium">Master Suite</h2>
 
                         <div>
 
@@ -149,6 +283,5 @@
 
     </div>
 
-    <div class="space-y"></div>
 
 </section>

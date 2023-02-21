@@ -17,26 +17,6 @@
 
 @section('scripts')
 
-{{-- Owl Carousel --}}
-<script src="{{ asset('assets/js/libs/jquery-3.6.3.min.js') }}"></script>
-<script src="{{ asset('assets/owl-carousel/owl.carousel.min.js') }}"></script>
-<script>
-    $(document).ready(function(){
-        $('.owl-carousel').owlCarousel({
-            items: 1,
-            autoplay: true,
-            loop: true,
-            autoplayTimeout: 4000,
-            autoplayHoverPause: true,
-            animateOut: 'fadeOut',
-            animateIn: 'fadeIn',
-            autoWidth:true,
-
-        });
-    });
-</script>
-
-
 {{-- Menu --}}
 <script>
     const aside = document.querySelector('#aside');
