@@ -9,23 +9,30 @@
         <div class="space-y md:hidden"></div>
 
         <div>
-            <h2 class="pr-10 text-2xl font-bold md:py-10">COUNTRY HOTEL & SUITES</h2>
+            <h2 class="pr-10 text-2xl font-bold md:py-10">HOTEL ISABEL</h2>
 
             <div class="space-y md:hidden"></div>
 
             <div class="text-sm leading-6 md:grid md:grid-cols-2 md:gap-9">
 
                 <p>
-                    Country Hotel & Suites abre sus puertas para recibirte con la mejor atención. Ya sea que viajes por placer o negocios, buscaremos que tengas una cómoda estadía. Estamos comprometidos con ofrecer un servicio cálido y personalizado a cada uno de nuestros huéspedes.
+                    Hotel Isabel fue fundado en 1960 por iniciativa de la familia Paillaud Cano, quienes
+mediante su habilidad visionaria lo convirtieron en una empresa familiar
+especializada en el servicio al huésped, donde la calidad en la atención y la
+calidez en el servicio son de vital importancia.
                 </p>
 
                 <div class="space-y md:hidden"></div>
                 
                 <p>
-                    Guadalajara, también conocida como “La Perla Tapatía”, es la ciudad más grande de Jalisco, y está catalogada como una de las mejores ciudades para visitar en México.
+                    El Hotel Isabel fue nombrado así por la señora Mirelle Paillaud de ascendencia
+                    francesa, en honor a la más pequeña de sus hijas, se ubica en el tradicional barrio
+                    de la colonia Americana.
                     <br>
                     <br>
-                    Conocida como la tierra del tequila y el mariachi, es rica en historia y tradiciones, como la charrería, el baile folclórico, el jarabe tapatío y el tequila.
+                    Por el largo de los años ha sido catalogado como un lugar hospitalario, colonial,
+                    rustico y familiar.
+
                 </p>
             
             </div>
