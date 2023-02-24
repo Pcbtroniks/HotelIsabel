@@ -13,18 +13,20 @@
 
                     <div class="h-52 lg:h-full min-h-5 basis-1/3 lg:overflow-hidden">
                         <picture>
-                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/sencilla.jpg') }}" alt="">
+                            <img class="h-full w-full object-cover lg:h-96 xl:h-80" src="{{ asset('assets/img/rooms/sencilla.jpg') }}" alt="Habitacion sencila">
                         </picture>
                     </div>
 
                     <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80">
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Habitación Estándar</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 text-dark-medium capitalize">Habitación Sencilla</h2>
 
                         <div>
 
                             <p class="text-sm">
-                                Déjanos consentirte con esta confortable habitación que cuenta con cama King Size. Nuestra habitación Estándar es ideal para viajes de placer o de negocios. Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello.
+                                Habitación Sencilla, especialmente diseñada para tu comodidad y conveniencia, recomendada para 2 personas.
+                                <br>
+                                Esta habitación cuenta con una mesa de trabajo, equipada con una cama King Size perfecta para una buena noche de sueño.
                             </p>
 
                             <ul class="grid grid-cols-3 py-4 text-xs">
@@ -70,7 +72,9 @@
                         <div>
 
                             <p class="text-sm">
-                                La elección perfecta para brindar alojamiento a familias o grupos de amigos, ésta habitación está equipada con dos camas Queen Size. Aquí podrás pasar una noche cómoda y en armonía. Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello.
+                                Contamos con 40 habitaciones dobles, en ellas podrás disfrutar de la paz y comodidad que produce hospedarse en estas habitaciones estilo rustico, un espacio lleno de confort y descanso.
+                                <br>
+                                Equipadas con dos camas matrimoniales, ideales para 4 personas.    
                             </p>
 
                             <ul class="grid grid-cols-3 py-4 text-xs">
@@ -116,8 +120,9 @@
                         <div>
 
                             <p class="text-sm">
-                                En esta habitación tendrás el descanso que te mereces, nuestra Suite ofrece lujo, confort y una increíble vista panorámica. Es una habitación de 50m² con una cama King Size y una relajante tina de baño.
-                                Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
+                                Si estás en un viaje de negocios, la Suite Luis Fernando ha sido especialmente diseñada para tu comodidad y conveniencia.
+                                <br>
+                                Esta habitación cálida y cómoda cuenta con una área de trabajo, una cama matrimonial de lujo perfecta para un descanso satisfactorio.        
                             </p>
 
                             <ul class="grid grid-cols-3 py-4 text-xs">
@@ -161,8 +166,9 @@
                         <div>
 
                             <p class="text-sm">
-                                En esta habitación tendrás el descanso que te mereces, nuestra Suite ofrece lujo, confort y una increíble vista panorámica. Es una habitación de 50m² con una cama King Size y una relajante tina de baño.
-                                Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
+                                No importa el motivo de tu viaje, la Suite Isabel se adapta a tus necesidades.
+                                <br>
+                                Compuesta con una mini sala de estar, un escritorio práctico y una cómoda cama matrimonial.        
                             </p>
 
                             <ul class="grid grid-cols-3 py-4 text-xs">
@@ -206,8 +212,9 @@
                         <div>
 
                             <p class="text-sm">
-                                En esta habitación tendrás el descanso que te mereces, nuestra Suite ofrece lujo, confort y una increíble vista panorámica. Es una habitación de 50m² con una cama King Size y una relajante tina de baño.
-                                Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
+                                En la Suite Paillaud encontrarás un espacio placentero para una estancia inolvidable.
+                                <br>
+                                Un espacio amplio ideal para 4 personas compuesto de una mini sala de estar, dos camas matrimoniales.
                             </p>
 
                             <ul class="grid grid-cols-3 py-4 text-xs">
@@ -250,10 +257,11 @@
 
                         <div>
 
-                            <p class="text-sm">
-                                En esta habitación tendrás el descanso que te mereces, nuestra Suite ofrece lujo, confort y una increíble vista panorámica. Es una habitación de 50m² con una cama King Size y una relajante tina de baño.
-                                Todas nuestras habitaciones cuentan con internet inalámbrico, aire acondicionado y calefacción, escritorio de trabajo, sistema de cable, kit de planchado y secadora de cabello
-                            </p>
+                            <p class="text-sm">     
+                                Ven y relájate en compañía de tu pareja y disfruta de un espacio a solas y convierte tu día en un momento especial vive tu noche romántica o simplemente disfruta de tu estancia en la ciudad.
+                                <br>
+                                La Master Suite cuenta con una sala de descanso, comedor, cocina y todas las comodidades para hacer tu estancia placentera.
+                           </p>
 
                             <ul class="grid grid-cols-3 py-4 text-xs">
                                 <li class="leading-4 xl:leading-tight"><span class="font-bold text-main">•</span>Internet inalámbrico y WiFi gratuito</li>
