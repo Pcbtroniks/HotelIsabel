@@ -10,7 +10,7 @@
         <div id="comments-carousel" class="owl-carousel md:grid md:grid-cols-2 md:gap-4 my-10">
 
             <div class="shadow-card lg:min-h-[160px] p-4 col-span-1 mr-4">
-                <h4 class="font-bold">Excepcional</h4>
+                <h4 class="font-bold">Easy and comfortable</h4>
                 <ul class="flex my-3">
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -20,12 +20,12 @@
                 </ul>
 
                 <p class="text-sm flex-wrap">
-                    Las instalaciones están impecables, cuenta con suficiente estacionamiento.
+                    Everything good, clean, nice communal area with pool. Simple but good.
                 </p>
             </div>
 
             <div class="shadow-card lg:min-h-[160px] p-4 col-span-1 mr-4">
-                <h4 class="font-bold">Fantástico</h4>
+                <h4 class="font-bold">Recomendable</h4>
                 <ul class="flex my-3">
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -35,12 +35,12 @@
                 </ul>
 
                 <p class="text-sm">
-                    Las suites tienen habitaciones muy amplias con sala y una pequeña cocina, la ubicación es buena.
+                    La comida muy rica, el trato y sobre todo la limpieza del hotel me pareció genial. Sin duda me hospedería nuevamente.
                 </p>
             </div>
 
             <div class="shadow-card lg:min-h-[160px] p-4 col-span-1 mr-4">
-                <h4 class="font-bold">Muy bien</h4>
+                <h4 class="font-bold">Exceptional</h4>
                 <ul class="flex my-3">
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -50,12 +50,12 @@
                 </ul>
 
                 <p class="text-sm">
-                    La ubicación es excelente, las habitaciones son muy amplias y las instalaciones muy agradables. Vale la pena para la zona en la que se encuentra para ir a actividades de entretenimiento.
+                    Me gusto mucho todo, muy cómodo y rustico y el personal muy amable desde que te entregan la habitación, alberca rica y cuarto cómodo.
                 </p>
             </div>
 
             <div class="shadow-card lg:min-h-[160px] p-4 col-span-1 mr-4">
-                <h4 class="font-bold">Muy buena opción de hospedaje en Guadalajara</h4>
+                <h4 class="font-bold">Exceptional</h4>
                 <ul class="flex my-3">
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                     <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -65,7 +65,7 @@
                 </ul>
 
                 <p class="text-sm">
-                    La habitación estaba muy amplia, tenía un sofacama lo que hizo mucho más cómoda nuestra estancia y estaba muy cerca de todo.
+                    The staff at reception are exceptional and are helpful far beyond all expectations. I won't stay anywhere else from now on. Hotel Isabel is fantastic.
                 </p>
             </div>
         
