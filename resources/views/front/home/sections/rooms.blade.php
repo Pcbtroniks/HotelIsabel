@@ -24,11 +24,13 @@
                 <div class="p-6 pb-4 ">
 
                     <h3 class="font-bold mb-3 text-xl">
-                        Habitación Estandar
+                        Habitación Sencilla
                     </h3>
 
                     <p class="text-sm leading-6">
-                        Déjanos consentirte con esta confortable habitación que cuenta con cama King Size. Nuestra habitación Estándar es ideal para viajes de placer o de negocios. Todas nuestras habitaciones cuentan con internet ...
+                        Habitación Sencilla, especialmente diseñada para tu comodidad y conveniencia, recomendada para 2 personas.
+                        <br>
+                        Esta habitación cuenta con una mesa de trabajo, equipada con una cama King Size perfecta para una buena noche de sueño.
                     </p>
 
                     <ul class="flex mt-3 gap-4">
@@ -62,7 +64,9 @@
                     </h3>
 
                     <p class="text-sm leading-6">
-                        La elección perfecta para brindar alojamiento a familias o grupos de amigos, ésta habitación está equipada con dos camas Queen Size. Aquí podrás pasar una noche cómoda y en armonía.
+                        Contamos con 40 habitaciones dobles, en ellas podrás disfrutar de la paz y comodidad que produce hospedarse en estas habitaciones estilo rustico, un espacio lleno de confort y descanso.
+                        <br>
+                        Equipadas con dos camas matrimoniales, ideales para 4 personas.
                     </p>
 
                     <ul class="flex mt-3 gap-4">
@@ -96,7 +100,9 @@
                     </h3>
 
                     <p class="text-sm leading-6">
-                        La elección perfecta para brindar alojamiento a familias o grupos de amigos, ésta habitación está equipada con dos camas Queen Size. Aquí podrás pasar una noche cómoda y en armonía.
+                        Si estás en un viaje de negocios, la Suite Luis Fernando ha sido especialmente diseñada para tu comodidad y conveniencia.
+                        <br>
+                        Esta habitación cálida y cómoda cuenta con una área de trabajo, una cama matrimonial de lujo perfecta para un descanso satisfactorio.
                     </p>
 
                     <ul class="flex mt-3 gap-4">
@@ -130,7 +136,9 @@
                     </h3>
 
                     <p class="text-sm leading-6">
-                        La elección perfecta para brindar alojamiento a familias o grupos de amigos, ésta habitación está equipada con dos camas Queen Size. Aquí podrás pasar una noche cómoda y en armonía.
+                        No importa el motivo de tu viaje, la Suite Isabel se adapta a tus necesidades.
+                        <br>
+                        Compuesta con una mini sala de estar, un escritorio práctico y una cómoda cama matrimonial.
                     </p>
 
                     <ul class="flex mt-3 gap-4">
@@ -164,7 +172,9 @@
                     </h3>
 
                     <p class="text-sm leading-6">
-                        La elección perfecta para brindar alojamiento a familias o grupos de amigos, ésta habitación está equipada con dos camas Queen Size. Aquí podrás pasar una noche cómoda y en armonía.
+                        En la Suite Paillaud encontrarás un espacio placentero para una estancia inolvidable.
+                        <br>
+                        Un espacio amplio ideal para 4 personas compuesto de una mini sala de estar, dos camas matrimoniales.
                     </p>
 
                     <ul class="flex mt-3 gap-4">
@@ -198,7 +208,9 @@
                     </h3>
 
                     <p class="text-sm leading-6">
-                        La elección perfecta para brindar alojamiento a familias o grupos de amigos, ésta habitación está equipada con dos camas Queen Size. Aquí podrás pasar una noche cómoda y en armonía.
+                        Ven y relájate en compañía de tu pareja y disfruta de un espacio a solas y convierte tu día en un momento especial vive tu noche romántica o simplemente disfruta de tu estancia en la ciudad.
+
+                        La Master Suite cuenta con una sala de descanso, comedor, cocina y todas las comodidades para hacer tu estancia placentera.
                     </p>
 
                     <ul class="flex mt-3 gap-4">
