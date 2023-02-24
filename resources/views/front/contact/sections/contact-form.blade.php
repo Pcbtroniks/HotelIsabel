@@ -4,8 +4,9 @@
 
         <div class="space-y"></div>
 
-        <form action="#" class="mx-auto">
-
+        <form action="{{route('contact.send')}}" method="POST" class="mx-auto">
+            @csrf
+            @method('POST')
             <div class="lg:flex lg:justify-between lg:gap-8">
                 <div class="lg:w-1/2">
                     <input class="border-0 border-b w-full focus:ring-0 py-3 px-0"  name="name" type="text" placeholder="Nombre">
@@ -21,7 +22,7 @@
             </div>
             <div class="space-y"></div>
             <div>
-                <textarea class="border-0 border-b w-full focus:ring-0 py-3 px-0 mt-4" name="mensaje" id="" placeholder="Mensaje"></textarea>
+                <textarea class="border-0 border-b w-full focus:ring-0 py-3 px-0 mt-4" name="message" id="" placeholder="Mensaje"></textarea>
             </div>
 
             <div class="text-left">
