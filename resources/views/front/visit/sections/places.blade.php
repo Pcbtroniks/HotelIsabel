@@ -4,13 +4,14 @@
 
             <div class="px-10 md:mx-auto my-11">
                 <h2 class="font-bold text-xs uppercase mb-10">
-                    Country Hotel & Suites
+                    Hotel Isabel
                 </h2>
 
                 <h3 class="font-bold text-3xl mb-10">EN GUADALAJARA</h3>
 
                 <p class="text-sm leading-6">
-                    Country Hotel & Suites abre sus puertas para recibirte con la mejor atención. Ya sea que viajes por placer o negocios, buscaremos que tengas una cómoda estadía. Estamos comprometidos con ofrecer un servicio cálido y personalizado a cada uno de nuestros huéspedes.
+                    Hotel Isabel fue fundado en 1960 por iniciativa de la familia Paillaud Cano, quienes mediante su habilidad visionaria lo convirtieron en una empresa familiar especializada en el servicio al huésped, donde la calidad en la atención y la calidez en el servicio son de vital importancia.
+                    Las instalaciones han sido modificadas con el paso de los años, comenzando con una propiedad que fue adaptada para construir un hotel donde se accediera a las habitaciones con el vehículo,más tarde se adquirieron las fincas aledañas entre las que estaba la huerta del abuelo Paillaud y la abuela Cano.
                 </p>
 
                 <div class="space-y"></div>
@@ -33,7 +34,7 @@
             </div>
 
             <div>
-                <iframe class="w-full max-h-96 h-96 object-cover" src="https://www.google.com/maps/d/u/0/embed?mid=1ihlqwTf_AppFt14DohJk0loynGZe97c&ehbc=2E312F" width="640" height="480"></iframe>
+                <iframe class="w-full max-h-96 h-96 object-cover" src="https://www.google.com/maps/d/u/0/embed?mid=1YaEQnISBdb1ykUokVpV-zhL48wboAPs&ehbc=2E312F" width="640" height="480"></iframe>
             </div>
 
         </div>
