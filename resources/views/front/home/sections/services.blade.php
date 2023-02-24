@@ -17,7 +17,9 @@
             </ul>
 
             <div class="my-12">
-                <button class="w-36 h-12 font-bold bg-main text-white text-sm">ver todos</button>
+                <a href="{{ route('services') }}">
+                    <button class="w-36 h-12 font-bold bg-main text-white text-sm">ver todos</button>
+                </a>
             </div>
         </div>
 

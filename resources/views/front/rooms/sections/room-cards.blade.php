@@ -47,7 +47,9 @@
 
                         <div class="mt-8 xl:mt-4 justify-self-end">
 
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            <a href="{{route('contact')}}">
+                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            </a>
 
                         </div>
 
@@ -95,7 +97,9 @@
 
                         <div class="mt-4 justify-self-end">
 
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            <a href="{{route('contact')}}">
+                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            </a>
 
                         </div>
 
@@ -141,7 +145,9 @@
 
                         <div class="mt-8 justify-self-end">
 
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            <a href="{{route('contact')}}">
+                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            </a>
 
                         </div>
 
@@ -187,7 +193,9 @@
 
                         <div class="mt-8 justify-self-end">
 
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            <a href="{{route('contact')}}">
+                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            </a>
 
                         </div>
 
@@ -233,7 +241,9 @@
 
                         <div class="mt-8 justify-self-end">
 
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            <a href="{{route('contact')}}">
+                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            </a>
 
                         </div>
 
@@ -279,7 +289,9 @@
 
                         <div class="mt-8 justify-self-end">
 
-                            <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            <a href="{{route('contact')}}">
+                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
+                            </a>
 
                         </div>
 
