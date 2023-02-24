@@ -9,18 +9,17 @@
             <ul class="text-sm font-bold flex flex-col gap-10 text-center">
                 <li>
                     <p>
-                    Av. Circ. Jorge Álvarez del Castillo No 1482
-                    Col. Chapultepec Country C.P. 44620
+                        José Gpe. Montenegro #1572 44170 Guadalajara, Jalisco, México
                     </p>
                 </li>
                 <li>
                     <p>
-                        33 38 23 04 92 / 33 38 23 04 63
+                        +52 33 3826 2630
                     </p>
                 </li>
                 <li>
                     <p>
-                        reservaciones@countryhotel.com.mx
+                        reservaciones@hotelisabel.com
                     </p>
                 </li>
                 <li>
