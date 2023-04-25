@@ -28,6 +28,31 @@
 
 @section('scripts')
 
+<!-- SweetAlert -->
+<script src="{{ asset('assets/js/libs/sweetalert2.js') }}"></script>
+@if (session()->has('success'))
+<script>
+    Swal.fire({
+        icon: 'success',
+        title: '¡Gracias por contactarnos!',
+        text: '{{ session('success') }}',
+    })
+</script>
+@endif
+@if ($errors->any())
+    @foreach ($errors->all() as $error)
+    <script>    
+        Swal.fire({
+            icon: 'error',
+            title: 'Oops...',
+            text: '{{ $error }}',
+            toast: true,
+        })    
+    </script>
+    @endforeach
+    <h2></h2>
+@endif
+
 {{-- Owl Carousel --}}
 <script src="{{ asset('assets/js/libs/jquery-3.6.3.min.js') }}"></script>
 <script src="{{ asset('assets/owl-carousel/owl.carousel.min.js') }}"></script>

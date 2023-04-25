@@ -9,20 +9,20 @@
             @method('POST')
             <div class="lg:flex lg:justify-between lg:gap-8">
                 <div class="lg:w-1/2">
-                    <input class="border-0 border-b w-full focus:ring-0 py-3 px-0"  name="name" type="text" placeholder="Nombre">
+                    <input class="border-0 border-b w-full focus:ring-0 py-3 px-0"  name="name" type="text" placeholder="Nombre" value="{{old('name')}}">
                 </div>
                 <div class="space-y lg:hidden"></div>
                 <div class="lg:w-1/2">
-                    <input class="border-0 border-b w-full focus:ring-0 py-3 px-0" name="email" type="email" placeholder="Email">
+                    <input class="border-0 border-b w-full focus:ring-0 py-3 px-0" name="email" type="email" placeholder="Email" value="{{old('email')}}">
                 </div>
             </div>
             <div class="space-y"></div>
             <div>
-                <input class="border-0 border-b w-full focus:ring-0 py-3 px-0" name="subject" type="text" placeholder="Subject">
+                <input class="border-0 border-b w-full focus:ring-0 py-3 px-0" name="subject" type="text" placeholder="Subject" value="{{old('subject')}}">
             </div>
             <div class="space-y"></div>
             <div>
-                <textarea class="border-0 border-b w-full focus:ring-0 py-3 px-0 mt-4" name="message" id="" placeholder="Mensaje"></textarea>
+                <textarea class="border-0 border-b w-full focus:ring-0 py-3 px-0 mt-4" name="message" id="" placeholder="Mensaje">{{old('message')}}</textarea>
             </div>
 
             <div class="text-left">
