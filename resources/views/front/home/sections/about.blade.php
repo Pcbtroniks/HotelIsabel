@@ -13,7 +13,7 @@
 
             <div class="space-y md:hidden"></div>
 
-            <div class="text-sm leading-6 md:grid md:grid-cols-2 md:gap-9">
+            <div class="text-sm leading-6 md:grid md:grid-cols-2 md:gap-9 text-justify">
 
                 <p>
                     Hotel Isabel fue fundado en 1960 por iniciativa de la familia Paillaud Cano, quienes

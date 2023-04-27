@@ -12,7 +12,7 @@
             <h2 class="text-4xl font-bold px-12 hidden">
                 Hotel Isabel
             </h2>
-            <p class="text-2xl px-10">
+            <p class="text-lg   lg:px-10">
                 Disfrutarás de una magnífica ubicación en pleno Centro de Guadalajara, a
                 solo 15 minutos a pie de Avenida Chapultepec y Consulado de los Estados
                 Unidos en Guadalajara.
