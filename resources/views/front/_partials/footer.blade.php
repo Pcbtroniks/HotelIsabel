@@ -17,9 +17,9 @@
         <div class="sm:w-[335px] px-3 text-white">
             <h4>Información de contacto</h4>
 
-            <div class="space-y"></div>
+            <div class="h-4"></div>
 
-            <div class="flex flex-col gap-16 text-left font-bold">
+            <div class="flex flex-col gap-12 text-left font-bold">
                 <a class="flex gap-2" href="tel:+523338230463">
                     <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Location Icon">
                     <span>+52 33 3826 2630</span>
@@ -52,7 +52,7 @@
 
     </div>
 
-    <div class="bg-main-dark p-4 text-center">
+    <div class="bg-main-dark p-2 text-center">
         <p class="text-white/50 text-sm">
             &copy; 
             <script>document.write(new Date().getFullYear())</script>
