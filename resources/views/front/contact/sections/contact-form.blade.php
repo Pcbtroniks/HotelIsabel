@@ -27,7 +27,12 @@
 
             <div class="text-left">
                 <div class="space-y"></div>
-                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                <div>
+                        <div class="space-y md:h-5"></div>
+                         <a href="{{route('contact')}}">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Enviar</button>
+                        </a>
+                    </div>
                 <div class="space-y-sm"></div>
             </div>
 

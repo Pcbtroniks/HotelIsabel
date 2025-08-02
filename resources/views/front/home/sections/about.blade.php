@@ -39,9 +39,12 @@
 
             <div>
                 <div class="space-y"></div>
-                <a href="{{route('contact')}}">
-                    <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
-                </a>
+                <div>
+                        <div class="space-y md:h-5"></div>
+                        <a href="https://hotels.cloudbeds.com/reservation/XmF8tq">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
                 <div class="space-y-sm"></div>
             </div>
         </div>

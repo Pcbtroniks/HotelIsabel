@@ -45,13 +45,12 @@
 
                         </div>
 
-                        <div class="mt-8 xl:mt-4 justify-self-end">
-
-                            <a href="{{route('contact')}}">
-                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-                            </a>
-
-                        </div>
+                        <div>
+                        <div class="space-y md:h-5"></div>
+                        <a href="https://hotels.cloudbeds.com/reservation/XmF8tq">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
@@ -95,13 +94,12 @@
 
                         </div>
 
-                        <div class="mt-4 justify-self-end">
-
-                            <a href="{{route('contact')}}">
-                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-                            </a>
-
-                        </div>
+                        <div>
+                        <div class="space-y md:h-5"></div>
+                        <a href="https://hotels.cloudbeds.com/reservation/XmF8tq">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
@@ -143,13 +141,12 @@
 
                         </div>
 
-                        <div class="mt-8 justify-self-end">
-
-                            <a href="{{route('contact')}}">
-                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-                            </a>
-
-                        </div>
+                        <div>
+                        <div class="space-y md:h-5"></div>
+                        <a href="https://hotels.cloudbeds.com/reservation/XmF8tq">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
@@ -191,13 +188,12 @@
 
                         </div>
 
-                        <div class="mt-8 justify-self-end">
-
-                            <a href="{{route('contact')}}">
-                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-                            </a>
-
-                        </div>
+                        <div>
+                        <div class="space-y md:h-5"></div>
+                        <a href="https://hotels.cloudbeds.com/reservation/XmF8tq">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
@@ -239,13 +235,12 @@
 
                         </div>
 
-                        <div class="mt-8 justify-self-end">
-
-                            <a href="{{route('contact')}}">
-                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-                            </a>
-
-                        </div>
+                        <div>
+                        <div class="space-y md:h-5"></div>
+                        <a href="https://hotels.cloudbeds.com/reservation/XmF8tq">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
@@ -287,13 +282,12 @@
 
                         </div>
 
-                        <div class="mt-8 justify-self-end">
-
-                            <a href="{{route('contact')}}">
-                                <button class="w-36 h-12 font-bold bg-main text-white text-sm">Reservar ahora</button>
-                            </a>
-
-                        </div>
+                        <div>
+                        <div class="space-y md:h-5"></div>
+                        <a href="https://hotels.cloudbeds.com/reservation/XmF8tq">
+                            <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                        </a>
+                    </div>
 
                     </div>
 
