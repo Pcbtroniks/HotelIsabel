@@ -20,11 +20,11 @@
             <div class="h-4"></div>
 
             <div class="flex flex-col gap-12 text-left font-bold">
-                <a class="flex gap-2" href="tel:+523338230463">
+                <a class="flex gap-2" href="tel:+523338262630">
                     <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Location Icon">
                     <span>+52 33 3826 2630</span>
                 </a>
-                <a class="flex gap-2" href="mailto:523338230463">
+                <a class="flex gap-2" href="mailto:523338262630">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
                     <span>reservaciones@hotelisabel.com</span>
                 </a>
