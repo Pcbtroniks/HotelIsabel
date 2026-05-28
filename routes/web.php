@@ -27,4 +27,41 @@ Route::get('/contacto', function () {
     return view('front.contact.contact');
 })->name('contact');
 
+Route::get('/menus', function () {
+    return view('front.menus.menus');
+})->name('menus');
+Route::get('/menus/habitaciones', function () {
+    $path = public_path('\assets\menu-habitaciones.pdf');
+    if (file_exists($path)) {
+        return response()->file($path);
+    } else {
+        abort(404);
+    }
+})->name('menus.habitaciones.file');
+
+Route::get('/menus/canales', function () {
+    $path = public_path('\assets\menu-canales.pdf');
+    if (file_exists($path)) {
+        return response()->file($path);
+    } else {
+        abort(404);
+    }
+})->name('menus.canales.file');
+
+Route::get('/menus/reglamento-interno', function () {
+    $path = public_path('\assets\reglamento-interno.pdf');
+    if (file_exists($path)) {
+        return response()->file($path);
+    } else {
+        abort(404);
+    }
+})->name('menus.reglamento.interno.file');
+Route::get('/menus/reglamento-mascotas', function () {
+    $path = public_path('\assets\reglamento-mascotas.pdf');
+    if (file_exists($path)) {
+        return response()->file($path);
+    } else {
+        abort(404);
+    }
+})->name('menus.reglamento.mascotas.file');
 Route::post('/contacto', [ContactController::class, 'sendContactEmail'])->name('contact.send');
