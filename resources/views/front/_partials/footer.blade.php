@@ -8,7 +8,7 @@
 
         <div class="sm:order-3">
             <ul class="grid grid-cols-2 gap-7">
-                <li><a target="_blank" href="https://api.whatsapp.com/send?phone=523322415915&text=Hola,%20necesito%20ayuda"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
+                <li><a target="_blank" href="https://api.whatsapp.com/send?phone=523328131753&text=Hola,%20quiero%20más%20información"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/hotelisabelgdl"><img src="{{ asset('assets/icons/socials/Facebook.svg') }}" alt="Facebook"></a></li>
                 <li class="col-span-2 mx-auto"><a target="_blank" href="https://www.instagram.com/hotelisabelgdl/"><img src="{{ asset('assets/icons/socials/Instagram.svg') }}" alt="Instagram"></a></li>
             </ul>
@@ -24,7 +24,7 @@
                     <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Location Icon">
                     <span>+52 33 3826 2630</span>
                 </a>
-                <a class="flex gap-2" href="mailto:523338262630">
+                <a class="flex gap-2" href="mailto:reservaciones@hotelisabel.com">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
                     <span>reservaciones@hotelisabel.com</span>
                 </a>
