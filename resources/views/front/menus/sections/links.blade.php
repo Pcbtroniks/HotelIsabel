@@ -2,7 +2,7 @@
 
     <div class="px-4 flex flex-col items-center pb-16">
 
-        <a target="_blank" href="{{ asset('assets/menu-habitaciones.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card-hard sm:w-[29.25rem] w-[20.5rem]">
+        <a target="_blank" href="{{ asset('assets/menu-habitaciones.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card sm:w-[29.25rem] w-[20.5rem]">
             <div class="w-[4.5rem]">
                 <img class="w-full" src="{{ asset('assets/icons/socials/logo-restaurante-isabel.png') }}" alt="Logo restaurant">
             </div>
@@ -12,7 +12,7 @@
             </div>
         </a>
 
-        <a target="_blank" href="{{ asset('assets/menu-canales.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card-hard sm:w-[29.25rem] w-[20.5rem]">
+        <a target="_blank" href="{{ asset('assets/menu-canales.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card sm:w-[29.25rem] w-[20.5rem]">
             <div class="w-[4.5rem]">
                 <img class="w-full rounded-full" src="{{ asset('assets/icons/socials/mosaico-1.png') }}" alt="Logo restaurant">
             </div>
@@ -22,7 +22,7 @@
             </div>
         </a>
 
-        <a target="_blank" href="{{ asset('assets/reglamento-interno.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card-hard sm:w-[29.25rem] w-[20.5rem]">
+        <a target="_blank" href="{{ asset('assets/reglamento-interno.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card sm:w-[29.25rem] w-[20.5rem]">
             <div class="w-[4.5rem]">
                 <img class="w-full rounded-full" src="{{ asset('assets/icons/socials/mosaico-2.png') }}" alt="Logo Hotel Isabel Mosaico">
             </div>
@@ -31,7 +31,7 @@
             </div>
         </a>
 
-        <a target="_blank" href="{{ asset('assets/reglamento-mascotas.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card-hard sm:w-[29.25rem] w-[20.5rem]">
+        <a target="_blank" href="{{ asset('assets/reglamento-mascotas.pdf') }}" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card sm:w-[29.25rem] w-[20.5rem]">
             <div class="w-[4.5rem]">
                 <img class="w-full rounded-full" src="{{ asset('assets/icons/socials/mosaico-1.png') }}" alt="Logo Hotel Isabel Mosaico">
             </div>
@@ -40,7 +40,7 @@
             </div>
         </a>
 
-        <a target="_blank" href="https://www.facebook.com/hotelisabelgdl/" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card-hard sm:w-[29.25rem] w-[20.5rem]">
+        <a target="_blank" href="https://www.facebook.com/hotelisabelgdl/" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card sm:w-[29.25rem] w-[20.5rem]">
             <div class="w-[4.5rem]">
                 <img class="w-full" src="{{ asset('assets/icons/socials/facebook-color.svg') }}" alt="Logo restaurant">
             </div>
@@ -50,7 +50,7 @@
             </div>
         </a>
 
-        <a target="_blank" href="https://www.instagram.com/hotelisabelgdl/" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card-hard sm:w-[29.25rem] w-[20.5rem]">
+        <a target="_blank" href="https://www.instagram.com/hotelisabelgdl/" class="bg-white flex items-center my-5 py-4 px-2 sm:px-4 rounded-full shadow-card sm:w-[29.25rem] w-[20.5rem]">
             <div class="w-[4.5rem]">
                 <img class="w-full" src="{{ asset('assets/icons/socials/instagram-color.svg') }}" alt="Logo restaurant">
             </div>
