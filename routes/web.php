@@ -67,5 +67,5 @@ Route::get('/menus/reglamento-mascotas', function () {
 Route::post('/contacto', [ContactController::class, 'sendContactEmail'])->name('contact.send');
 
 Route::get('/cuentanos-mas', function () {
-    return view('front.cuentanos-mas');
+    return view('front.cuentanos.cuentanos');
 })->name('cuentanos-mas');
